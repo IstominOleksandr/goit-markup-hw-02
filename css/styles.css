@@ -1,0 +1,119 @@
+body {
+    color:#434455;
+    background-color: #ffffff;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+button {
+    cursor: pointer;
+}
+a {
+    text-decoration: none;
+    color:#2E2F42;
+}
+nav{
+    font-weight: 500;
+    color: #2E2F42;
+}
+ul {
+    list-style-type: none;
+}
+.logo {
+    font-family: Raleway, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03;
+    text-transform: uppercase;
+    color: #4D5AE5;
+}
+.logo-studio {
+    color: #2E2F42;
+}
+.nav:hover,
+.nav:focus {
+    color: #404BBF;
+}
+.address {
+    font-style: normal;
+}
+.nav-address {
+    color: #434455;
+}
+.nav-address:hover,
+.nav-address:focus {
+    color: #404BBF;
+}
+.section-first {
+    background-color: #2E2F42;
+}
+.text-h1 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #ffffff;
+}
+.button-order {
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    background-color: #4D5AE5;
+    color: #ffffff;
+}
+.button-order:hover {
+    background-color: #404BBF;
+}
+.none-text-section {
+    display: none;
+}
+.main-text {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2E2F42;
+}
+.our-team-section {
+    text-align: center;
+    background-color: #F4F4FD;
+}
+.main-text {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11em;
+    letter-spacing: 0.02em;
+    color:#2E2F42;
+}
+.our-team-li {
+    background-color: #ffffff;
+}
+.our-team-h3 {
+        font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            color:#2E2F42;
+}
+.portfolio {
+    text-align: center;
+}
+.portfolio-h3 {
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        color: #2E2F42;
+}
+.footer {
+    background-color: #2E2F42;
+}
+.studio {
+    color: #F4F4FD;
+}
+.footer-p {
+    color: #F4F4FD;
+}
